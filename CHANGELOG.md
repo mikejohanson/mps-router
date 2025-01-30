@@ -1,6 +1,17 @@
+## [2.3.13](https://github.com/open-amt-cloud-toolkit/mps-router/compare/v2.3.12...v2.3.13) (2024-12-16)
+
+
+### Bug Fixes
+
+* **deps:** update dependencies for direct and transitive ([f5fb48a](https://github.com/open-amt-cloud-toolkit/mps-router/commit/f5fb48a1cac6e8d8eed985d90386a2cd645b0e4e))
+
+## [2.3.12](https://github.com/open-amt-cloud-toolkit/mps-router/compare/v2.3.11...v2.3.12) (2024-11-14)
+
+## [2.3.11](https://github.com/open-amt-cloud-toolkit/mps-router/compare/v2.3.10...v2.3.11) (2024-11-08)
+
 ## [2.3.10](https://github.com/open-amt-cloud-toolkit/mps-router/compare/v2.3.9...v2.3.10) (2024-08-12)
 
-## [2.3.9](https://github.com/open-amt-cloud-toolkit/mps-router/compare/v2.3.8...v2.3.9) (2024-07-31)
+## [2.3.9](https://github.com/open-amt-cloud-toolkit/mps-router/compare/v2.3.8...v2.3.9) (2024-07-31).
 
 
 ### Bug Fixes
@@ -31,7 +42,7 @@
 - **deps:** bump golang from `fc5e584` to `0466223` ([#205](https://github.com/open-amt-cloud-toolkit/mps/issues/205)) (#50381ed) 
 - **deps:** bump docker/login-action from 3.0.0 to 3.1.0 (#63f5eb9) 
 - **deps:** bump actions/checkout from 4.1.1 to 4.1.2 (#5cbb035) 
-- **deps:** bump github/codeql-action from 3.24.6 to 3.24.7 (#5c1b0f5) 
+- **deps:** bump github/codeql-action from 3.24.6 to 3.24.7 (#5c1b0f5).
 
 ### Chore
 - update build tasks (#a9c6284).
